@@ -1,0 +1,26 @@
+[
+    {
+        "id": 10,
+        "name": "BLAZE LEGGINGS",
+        "price": 53,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Layer_442.png"
+    },
+    {
+        "id": 11,
+        "name": "ALEXA SWEATER",
+        "price": 153,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Layer_452.png"
+    },
+    {
+        "id": 12,
+        "name": "AGNES TOP",
+        "price": 54,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Layer_462.png"
+    },
+    {
+        "id": 13,
+        "name": "SYLVA SWEATER",
+        "price": 253,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Layer_42.jpg"
+    }
+]

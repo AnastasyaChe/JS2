@@ -1,0 +1,56 @@
+[
+    {
+        "id": 14,
+        "name": "Mango People T-shirt",
+        "price": 53,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product3.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mango People T-shirt",
+        "price": 153,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product9.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Mango People T-shirt",
+        "price": 54,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product7.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Mango People SWEATER",
+        "price": 253,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product6.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Mango People LEGGINGS",
+        "price": 53,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product5.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Mango People SWEATER",
+        "price": 153,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/Product4.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Mango People TOP",
+        "price": 54,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/men9.png"
+    },
+    {
+        "id": 21,
+        "name": "Mango People SWEATER",
+        "price": 253,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/men6.png"
+    },
+    {
+        "id": 22,
+        "name": "Mango People SWEATER",
+        "price": 253,
+        "img": "https://raw.githubusercontent.com/AnastasyaChe/static/master/men4.png"
+    }
+]
